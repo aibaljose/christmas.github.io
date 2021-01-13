@@ -1,7 +1,7 @@
 # christmas.github.io
 
 
-![Alt text](/relative/ai.png?raw=true "website")
+![Alt text](https://raw.githubusercontent.com/aibaljose/christmas.github.io/main/ai.png "website")
 
 
 #this is simple svg animation website
